@@ -2,7 +2,7 @@
 
 ## Big Data
 Big data refers to data that is very large, complex, generated at high velocity, and encompasses various types (e.g., images, text, videos). It requires specialized tools and technologies for storage, management, and processing.
-
+ 
 ### Examples
 Big data finds applications in various fields, including healthcare, sports, social media, IoT, aerospace, etc.
 
