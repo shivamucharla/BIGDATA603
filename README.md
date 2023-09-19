@@ -52,6 +52,7 @@ Example: Facebook has got many challenges interms of fake news where it removes 
 Example: Amazon company leverages big data analytics to provide better shopping experience to the customers.
 
 
+![bigdataimage](https://github.com/shivamucharla/BIGDATA603/assets/137861219/45719bd8-15d8-4533-9e57-1828df44dee4)
 
 
 
